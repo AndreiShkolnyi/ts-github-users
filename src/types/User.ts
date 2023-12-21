@@ -30,7 +30,7 @@ export type GithubUser = {
     created_at: string,
 }
 
-export type GinhubError = {
+export type GithubError = {
     message: string,
     documentation_url: string
 }
